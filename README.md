@@ -25,7 +25,7 @@ Sistem Informasi Akademik SMAN 6 Gorontalo Merupakan platform berbasis website y
 
 ## Pengguna Akses
 
-| username             | password                                                               |
+| Property             | Value                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | Nama : | Administrator |
 | Username : | admin@gmail.com  |
