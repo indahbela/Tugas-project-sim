@@ -14,6 +14,7 @@ Sistem Informasi Akademik SMAN 6 Gorontalo Merupakan platform berbasis website y
 7. Indah Belastri Sibran (531423007)
 8. Dhimaz Pramudya Lc Lasabang (531423008)
 8. Alif Bima Pradana (531423009)
+9. Suci Ramadani Timumun (531423010)
 
 
 ## Contributor
